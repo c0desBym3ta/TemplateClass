@@ -1,6 +1,8 @@
 #pragma once
-class Stack
-{
+
+#include "header.h"
+
+class Stack{
 public:
 	Stack();
 	~Stack();
